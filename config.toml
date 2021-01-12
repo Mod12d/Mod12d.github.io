@@ -1,0 +1,29 @@
+BaseUrl= "https://mod12d.github.io/"
+LanguageCode= "en-US"
+Title= "parachute"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+
+[author]
+  name = "mo12"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = "this is my description"
+  cover = "images/user.jpg"
+  author = "mod12"
+  authorlocation = ""
+  bio= "my bio"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "mod12d"
+  twitterName = "mod12"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
