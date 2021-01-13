@@ -28,5 +28,14 @@
       <description>echo &amp;#34;hello world !!&amp;#34; </description>
     </item>
     
+    <item>
+      <title>Post title</title>
+      <link>https://mod12d.github.io/posts/post-title/</link>
+      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
+      
+      <guid>https://mod12d.github.io/posts/post-title/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
