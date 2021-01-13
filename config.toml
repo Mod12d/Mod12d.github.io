@@ -1,10 +1,11 @@
-BaseUrl= "https://mod12d.github.io/"
+BaseUrl= "https://mod12d.github.io/mod12/"
 LanguageCode= "en-US"
 Title= "parachute"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2016"
 canonifyurls = true
+publishDir="docs"
 
 [author]
   name = "mo12"
