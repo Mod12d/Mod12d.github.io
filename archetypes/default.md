@@ -1,9 +1,9 @@
 +++
-date = "2014-07-11T10:54:24+02:00"
+date = "2020-01-13T10:54:24+02:00"
 draft = false
 title = "Post title"
 slug = "post-title"
-tags = ["tag1","tag2"]
+tags = ["AIIT","パケット解析"]
 image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
